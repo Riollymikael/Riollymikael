@@ -36,6 +36,16 @@ Instagram pessoal ''[Oliveira Ramos](https://www.instagram.com/oliveira_ramosxx?
 
 <img 
     align="left"
+    alt= "VSCODE"
+    title="VSCODE" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />
+            
+         
+
+<img 
+    align="left"
     alt= "JavaScript"
     title="JavaScript" 
     width="30px" 
