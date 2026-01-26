@@ -83,6 +83,7 @@ Instagram pessoal ''[Oliveira Ramos](https://www.instagram.com/oliveira_ramosxx?
     alt= "GitHub Stats"
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=riollymikael&theme=tokyonight&layout=compact&custom_title=tecnologias&langs_count=9" />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=riollymikael&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=4" />
+
 
  
