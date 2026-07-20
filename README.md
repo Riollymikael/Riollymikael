@@ -1,11 +1,37 @@
-# 👨‍💻 Riolly Mikael
-**'Graduando em Gestão da Tecnologia da Informação UNISINOS'**
+# Olá, me chamo Riolly Ramos 👋
 
-Me chamo Riolly Mikael, tenho 25 anos e sou natural do Rio Grande do Sul. Sou apaixonado por tecnologia e programação, combinando uma sólida base técnica com foco em soluções comerciais de alto impacto. Atualmente, curso Gestão da TI na UNISINOS, onde aprofundo conhecimentos em desenvolvimento de software, arquitetura de redes e segurança.
+Atualmente graduando em Gestão da Tecnologia da Informação pela UNISINOS e Desenvolvedor Web focado em criar soluções exclusivas e de alta performance. 
 
-Como Desenvolvedor Web, sou especializado na criação de Landing Pages e sites institucionais em código puro (HTML5, CSS3 e JavaScript). Minha abordagem remove a necessidade de plataformas pesadas e mensalidades caras para o cliente, entregando páginas ultra-rápidas, seguras, totalmente responsivas e otimizadas para conversão e tráfego orgânico.
+Especializado no desenvolvimento de **Landing Pages e Sites Institucionais em Código Puro (HTML5, CSS3, JavaScript)**, entregando páginas ultra-rápidas, seguras e totalmente otimizadas para conversão de clientes, eliminando custos com mensalidades de plataformas pesadas.
+
+---
+
+### 🛠️ Minhas Competências e Stack Técnica
+
+- **Desenvolvimento Web:** HTML5, CSS3, JavaScript (Código Puro), Python, C#
+- **Bancos de Dados:** SQL
+- **Design & Performance Visual:** UI/UX Design, Edição de Vídeo Avançada, Desenvolvimento de Jogos
+- **Infraestrutura:** Gestão de TI, Redes, Segurança da Informação e Suporte Técnico
+
+---
+
+### 🎯 Portfólio de Soluções Especializadas (Código Puro)
+
+Abaixo você encontra projetos reais desenvolvidos sob medida para os nichos de maior conversão do mercado atual:
+
+- 🏋️‍♂️ **Academia-Pro:** Landing page de alta conversão para estúdios e academias de alta performance.
+- 🐾 **Pet Shop & Veterinárias:** Páginas institucionais voltadas para agendamentos e exposição de serviços.
+- 🩺 **Clínicas & Profissionais da Saúde:** Estruturas focadas em credibilidade, captura de leads e agendamento médico.
+- 🍔 **Delivery & Gastronomia:** Cardápios digitais e landing pages integradas para restaurantes aumentarem vendas diretas.
+- 👔 **Serviços Especializados:** Páginas para profissionais liberais (advogados, contadores, consultores).
+
+---
+
+### 📬 Vamos transformar a presença digital da sua empresa?
 
 
+- 📩 **E-mail Comercial:** [mikaelriollykvoltlol@outlook.com]
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/riolly-mikael-6440b0306/]
 ------------------------------------------------------------------------------------------
 
 ### 🤖 Linguagens e Tecnologias
