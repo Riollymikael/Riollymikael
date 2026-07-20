@@ -73,7 +73,7 @@ Instagram pessoal ''[Oliveira Ramos](https://www.instagram.com/oliveira_ramosxx?
 
 ---
 
-### 📽️ Editor de videos VSL e Dev de jogos.
+### Criador de sites e Dev de jogos.
 
 <img align="left" alt="VSL" title="VSL - Video Sales Letter" width="30px"
 src="https://cdn.simpleicons.org/youtube/1e90ff"/>
