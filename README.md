@@ -32,7 +32,7 @@ Abaixo você encontra projetos reais desenvolvidos sob medida para os nichos de 
 <img width="1680" height="914" alt="image" src="https://github.com/user-attachments/assets/88d2523b-047f-45c1-b109-08aed5afaa75" />
 
 ---
-<img width="1525" height="727" alt="image" src="https://github.com/user-attachments/assets/c901d206-2079-43fc-8b20-5ac8eaba5028" />
+<img width="1575" height="746" alt="image" src="https://github.com/user-attachments/assets/dee52b67-1941-4a5e-a86e-5b0af1bf3201" />
 
 ---
 <img width="1227" height="711" alt="image" src="https://github.com/user-attachments/assets/f12d6daf-9790-4c42-a9e2-a9b6ba903a58" />
