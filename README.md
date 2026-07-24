@@ -15,7 +15,8 @@ Especializado no desenvolvimento de **Landing Pages e Sites Institucionais em C�
 
 ---
 
-<img width="604" height="423" alt="image" src="https://github.com/user-attachments/assets/e029b3af-9527-453f-a683-67baae46f6a1" />
+<img width="604" height="423" alt="image" src="https://github.com/user-attachments/assets/e029b3af-9527-453f-a683-67baae46f6a1" /> <img width="604" height="423" alt="image" src="https://github.com/user-attachments/assets/c733df07-910c-4d78-a9e7-6f20939b10e0" />
+
 
 
 ### 🎯 Portfólio de Soluções Especializadas (Código Puro)
