@@ -15,6 +15,9 @@ Especializado no desenvolvimento de **Landing Pages e Sites Institucionais em C�
 
 ---
 
+<img width="1274" height="835" alt="image" src="https://github.com/user-attachments/assets/3712cfe8-f58f-488f-940c-84b7e288a14e" />
+
+
 ### 🎯 Portfólio de Soluções Especializadas (Código Puro)
 
 Abaixo você encontra projetos reais desenvolvidos sob medida para os nichos de maior conversão do mercado atual:
