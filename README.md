@@ -60,7 +60,12 @@ Abaixo você encontra projetos reais desenvolvidos sob medida para os nichos de 
 
 ---
 <img width="1566" height="837" alt="Captura de tela 2026-08-12 020017" src="https://github.com/user-attachments/assets/9dd09996-1168-4775-8f6c-bdb65c85a21f" />
-
+<!-- BOTÃO DE LIVE DEMO -->
+<p align="center">
+   <a href="https://riollymikael.github.io/Site-Fisioterapia/">
+    <img src="https://img.shields.io/badge/🚀_Ver_Demonstração_Online-2C6B5E?style=for-the-badge&logoColor=white&color=2C6B5E" alt="Ver Demo">
+  </a>
+</p>
 
 ---
 
