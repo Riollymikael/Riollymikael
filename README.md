@@ -50,20 +50,38 @@ Abaixo você encontra projetos reais desenvolvidos sob medida para os nichos de 
 
 ---
 <img width="1568" height="935" alt="Captura de tela 2026-08-12 015229" src="https://github.com/user-attachments/assets/460fbf35-36c5-4d23-9909-5aca8145cef0" />
+<!-- BOTÃO DE LIVE DEMO -->
+<p align="center">
+   <a href="https://riollymikael.github.io/Est-tica-Sa-de/">
+    <img src="https://img.shields.io/badge/🚀_Ver_Demonstração_Online-F2C94C?style=for-the-badge&logoColor=black&color=F2C94C" alt="Ver Demo">
+  </a>
+</p>
 
 ---
 
 <img width="1271" height="667" alt="Captura de tela 2026-08-12 015152" src="https://github.com/user-attachments/assets/d08e9702-c23e-4c61-a72b-6fc1aaee7666" />
+<!-- BOTÃO DE LIVE DEMO -->
+<p align="center">
+   <a href="https://riollymikael.github.io/Cl-nica-de-Psicologia/">
+    <img src="https://img.shields.io/badge/🚀_Ver_Demonstração_Online-2C6B5E?style=for-the-badge&logoColor=white&color=2C6B5E" alt="Ver Demo">
+  </a>
+</p>
 
 ---
 <img width="1531" height="909" alt="Captura de tela 2026-08-12 014955" src="https://github.com/user-attachments/assets/e3e9bb27-8834-46be-9a8e-bc72c5691758" />
+<!-- BOTÃO DE LIVE DEMO -->
+<p align="center">
+   <a href="https://riollymikael.github.io/Site-Fisioterapia/">
+    <img src="https://img.shields.io/badge/🚀_Ver_Demonstração_Online-2C6B5E?style=for-the-badge&logoColor=white&color=2C6B5E" alt="Ver Demo">
+  </a>
+</p>
 
 ---
 <img width="1566" height="837" alt="Captura de tela 2026-08-12 020017" src="https://github.com/user-attachments/assets/9dd09996-1168-4775-8f6c-bdb65c85a21f" />
 <!-- BOTÃO DE LIVE DEMO -->
 <p align="center">
-   <a href="https://riollymikael.github.io/Site-Fisioterapia/">
-    <img src="https://img.shields.io/badge/🚀_Ver_Demonstração_Online-2C6B5E?style=for-the-badge&logoColor=white&color=2C6B5E" alt="Ver Demo">
+  <a href="https://riollymikael.github.io/academia-pro/">
+    <img src="https://img.shields.io/badge/🚀_Ver_Demonstração_Online-F2C94C?style=for-the-badge&logoColor=black&color=F2C94C" alt="Ver Demo">
   </a>
 </p>
 
