@@ -29,6 +29,13 @@ Abaixo você encontra projetos reais desenvolvidos sob medida para os nichos de 
 
 <img width="1577" height="930" alt="preview" src="https://github.com/user-attachments/assets/cccb2597-3d51-45e8-a8b4-5267ec5c52e8" />
 
+<!-- BOTÃO DE LIVE DEMO -->
+  <p align="center">
+    <a href="https://riollymikael.github.io/landing-nutricionista/">
+      <img src="https://img.shields.io/badge/🚀_Ver_Demonstração_Online-385B47?style=for-the-badge&logoColor=white&color=385B47" alt="Ver Demonstração Online">
+    </a>
+  </p>
+  
 ---
 <img width="1367" height="883" alt="image" src="https://github.com/user-attachments/assets/5efd70b4-6e63-4c5d-b936-1f075714eb89" />
 
