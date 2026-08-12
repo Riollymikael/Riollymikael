@@ -39,15 +39,7 @@ Abaixo você encontra projetos reais desenvolvidos sob medida para os nichos de 
   </a>
 </p>
 
-  
-  <!-- BOTÕES DE ACESSO RÁPIDO -->
-  <a href="https://github.com/riollymikael/clinica-sorriso-landing-page">
-    <img src="https://img.shields.io/badge/💻_Código_Fonte-100000?style=for-the-badge&logo=github" alt="Código Fonte">
-  </a>
-  <img src="https://img.shields.io/badge/📱_100%25_Responsivo-22c55e?style=for-the-badge" alt="Responsivo">
-
 </div>
-
 ---
 <img width="1568" height="935" alt="Captura de tela 2026-08-12 015229" src="https://github.com/user-attachments/assets/460fbf35-36c5-4d23-9909-5aca8145cef0" />
 
