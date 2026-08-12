@@ -40,6 +40,7 @@ Abaixo você encontra projetos reais desenvolvidos sob medida para os nichos de 
 </p>
 
 </div>
+
 ---
 <img width="1568" height="935" alt="Captura de tela 2026-08-12 015229" src="https://github.com/user-attachments/assets/460fbf35-36c5-4d23-9909-5aca8145cef0" />
 
