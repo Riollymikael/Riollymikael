@@ -50,9 +50,10 @@ Abaixo você encontra projetos reais desenvolvidos sob medida para os nichos de 
 
 ---
 <img width="1568" height="935" alt="Captura de tela 2026-08-12 015229" src="https://github.com/user-attachments/assets/460fbf35-36c5-4d23-9909-5aca8145cef0" />
+
 <!-- BOTÃO DE LIVE DEMO -->
 <p align="center">
-   <a href="https://riollymikael.github.io/Est-tica-Sa-de/">
+   <a href="https://riollymikael.github.io/Estetica-Saude/">
     <img src="https://img.shields.io/badge/🚀_Ver_Demonstração_Online-F2C94C?style=for-the-badge&logoColor=black&color=F2C94C" alt="Ver Demo">
   </a>
 </p>
@@ -60,9 +61,10 @@ Abaixo você encontra projetos reais desenvolvidos sob medida para os nichos de 
 ---
 
 <img width="1271" height="667" alt="Captura de tela 2026-08-12 015152" src="https://github.com/user-attachments/assets/d08e9702-c23e-4c61-a72b-6fc1aaee7666" />
+
 <!-- BOTÃO DE LIVE DEMO -->
 <p align="center">
-   <a href="https://riollymikael.github.io/Cl-nica-de-Psicologia/">
+   <a href="https://riollymikael.github.io/Clinica-de-Psicologia/">
     <img src="https://img.shields.io/badge/🚀_Ver_Demonstração_Online-2C6B5E?style=for-the-badge&logoColor=white&color=2C6B5E" alt="Ver Demo">
   </a>
 </p>
