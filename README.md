@@ -26,6 +26,9 @@ Abaixo você encontra projetos reais desenvolvidos sob medida para os nichos de 
 - 👔 **Serviços Especializados:** Páginas para profissionais liberais (advogados, contadores, consultores).
 
 ---
+<img width="1577" height="930" alt="preview" src="https://github.com/user-attachments/assets/cccb2597-3d51-45e8-a8b4-5267ec5c52e8" />
+
+---
 <img width="1367" height="883" alt="image" src="https://github.com/user-attachments/assets/5efd70b4-6e63-4c5d-b936-1f075714eb89" />
 
 ---
